@@ -1,6 +1,11 @@
 # Protocol Explorer
 
-An interactive web application for learning how internet protocols work, with every packet decoded byte by byte.
+> [!IMPORTANT]
+> ### 📜 Attribution & Original Project
+> - **Original Website:** [https://protocol-explorer-alpha.vercel.app/](https://protocol-explorer-alpha.vercel.app/)
+> - **Original Author & Creator:** [Dilum Sanjaya](https://github.com/dilums)
+> 
+> *Notice: We are NOT the original creators or authors of this project. The entire concept, design, visual simulation, and core implementation belong to Dilum Sanjaya. This repository only contains minor modifications based on the original project.*
 
 ---
 
@@ -9,14 +14,6 @@ An interactive web application for learning how internet protocols work, with ev
 Explore the interactive lessons and packet flows live:
 
 👉 **[https://alishafiee2003.github.io/protocol-explorer/](https://alishafiee2003.github.io/protocol-explorer/)**
-
----
-
-## 📜 Credits & Attribution
-
-> **Attribution Notice:**
-> The original concept, design, code, and implementation of this project were created by **[Dilum Sanjaya](https://github.com/dilums)** ([Original Project](https://protocol-explorer-alpha.vercel.app/)).
-> This repository contains minor modifications based on the original work.
 
 ---
 
