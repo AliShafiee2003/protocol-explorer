@@ -39,6 +39,6 @@ Then navigate to `http://localhost:8000` in your browser.
 
 ## 📚 Protocols Covered
 
-- **Application Layer:** HTTP, HTTPS, DNS, DHCP, SMTP, POP3, IMAP, FTP, SSH
+- **Application Layer:** HTTP, HTTPS, HTTP/2, HTTP/3 (QUIC), WebSocket, MQTT, Server-Sent Events (SSE), Chunked Transfer, gRPC, DNS, DHCP, SMTP, POP3, IMAP, FTP, SSH
 - **Transport Layer:** TCP, UDP, TLS 1.3
 - **Network Layer:** IPv4, ICMP, ARP
